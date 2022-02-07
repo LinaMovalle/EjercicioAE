@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EjeArreglos/1.0.0": {
+        "runtime": {
+          "EjeArreglos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjeArreglos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

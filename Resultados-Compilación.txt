@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: EjeArreglos, configuración: Debug Any CPU ------
+1>EjeArreglos -> C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.dll
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

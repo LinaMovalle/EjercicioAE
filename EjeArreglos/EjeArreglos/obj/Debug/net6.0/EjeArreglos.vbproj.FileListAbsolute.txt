@@ -1,0 +1,15 @@
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.vbproj.AssemblyReference.cache
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.AssemblyInfoInputs.cache
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.AssemblyInfo.vb
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.vbproj.CoreCompileInputs.cache
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.exe
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.deps.json
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.runtimeconfig.json
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.dll
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\ref\EjeArreglos.dll
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\bin\Debug\net6.0\EjeArreglos.pdb
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.dll
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\ref\EjeArreglos.dll
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.pdb
+C:\Users\lima2\source\repos\EjeArreglos\EjeArreglos\obj\Debug\net6.0\EjeArreglos.genruntimeconfig.cache

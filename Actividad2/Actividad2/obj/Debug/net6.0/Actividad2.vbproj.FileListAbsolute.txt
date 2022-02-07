@@ -1,0 +1,15 @@
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\Actividad2.exe
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\Actividad2.deps.json
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\Actividad2.runtimeconfig.json
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\Actividad2.dll
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\ref\Actividad2.dll
+C:\Users\lima2\source\repos\Actividad2\Actividad2\bin\Debug\net6.0\Actividad2.pdb
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.vbproj.AssemblyReference.cache
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.AssemblyInfoInputs.cache
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.AssemblyInfo.vb
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.vbproj.CoreCompileInputs.cache
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.dll
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\ref\Actividad2.dll
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.pdb
+C:\Users\lima2\source\repos\Actividad2\Actividad2\obj\Debug\net6.0\Actividad2.genruntimeconfig.cache

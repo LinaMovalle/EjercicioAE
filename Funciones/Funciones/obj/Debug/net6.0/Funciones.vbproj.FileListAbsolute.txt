@@ -1,0 +1,14 @@
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfoInputs.cache
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfo.vb
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.vbproj.CoreCompileInputs.cache
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\Funciones.exe
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\Funciones.deps.json
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\Funciones.runtimeconfig.json
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\Funciones.dll
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\ref\Funciones.dll
+C:\Users\lima2\source\repos\Funciones\Funciones\bin\Debug\net6.0\Funciones.pdb
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.dll
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\ref\Funciones.dll
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.pdb
+C:\Users\lima2\source\repos\Funciones\Funciones\obj\Debug\net6.0\Funciones.genruntimeconfig.cache
